@@ -19,19 +19,13 @@ Créer un site web moderne et responsive qui met en valeur nos réalisations, no
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
-- (Ajoute ici tout autre framework ou librairie utilisée, ex : Bootstrap, Tailwind...)
+
 
 ---
 
-## 📸 Aperçu
-![Aperçu du site](./images/screenshot.png)
-
----
 
 ## 🚀 Déploiement
 Le site est hébergé sur **GitHub Pages**.  
 🔗 [Voir le site en ligne](https://TON-UTILISATEUR.github.io/TON-DEPOT/)
 
----
 
-## 📂 Structure du projet
